@@ -1,0 +1,3 @@
+[submodule "python_littlelib"]
+	path = python_littlelib
+	url = git@github.com:mollikka/python_littlelib.git
